@@ -1,6 +1,7 @@
 package lesson2;
 
 public class SecondApp {
+    //Second
     public static void main(String[] args) {
         System.out.println(doSum(10, 10));
         isPositiveOrNegative(-10);
